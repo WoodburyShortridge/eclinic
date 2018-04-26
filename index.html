@@ -2252,6 +2252,29 @@ width="{{ Math.round(picture.width * (picture.displayScale || screen.displayScal
 </div> <!-- inner -->
 </script> 
 
+<script>
+
+	// look for the react id of the hotspot on hashchange and simulate click
+    var i = 1;
+    function findHotspot () {         
+        setTimeout(function () {
+            var hotspot = document.querySelectorAll("[data-reactid='.0.2.2.$293690279.2.2.$847959070']");
+            if ( hotspot.length > 0 ) {
+                console.log (hotspot);
+                hotspot[0].click();
+                i = 4;
+            }
+            i++;               
+            if (i < 5) {       
+                findHotspot();         
+            }           
+        }, 500)
+    }
+    
+    window.onhashchange = function() {
+        findHotspot();
+    };
+</script>
 
 </body>
 </html>
