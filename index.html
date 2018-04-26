@@ -2274,6 +2274,13 @@ width="{{ Math.round(picture.width * (picture.displayScale || screen.displayScal
 	if (window.location.hash === "#/screens/293690279" ) {
 		findHotspot(1);
 	}
+
+    function cssEngine() {
+       var bod = document.getElementsByTagName("body")[0];
+       bod.setAttribute("style", "background:#ffffff!important;");
+    }
+
+    window.onload = function() {cssEngine()};
 </script>
 
 </body>
