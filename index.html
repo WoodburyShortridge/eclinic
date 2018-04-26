@@ -2277,7 +2277,11 @@ width="{{ Math.round(picture.width * (picture.displayScale || screen.displayScal
 
     function cssEngine() {
        var bod = document.getElementsByTagName("body")[0];
+       var made = document.querySelector("a.mobile-powered-by");
+       var tool = document.querySelector("div.tools");
        bod.setAttribute("style", "background:#ffffff!important;");
+       made.setAttribute("style", "display:none!important;");
+	   tool.setAttribute("style", "opacity:0!important;");
     }
 
     window.onload = function() {cssEngine()};
