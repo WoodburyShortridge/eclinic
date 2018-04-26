@@ -3,6 +3,31 @@
   <component name="ChangeListManager">
     <list default="true" id="cfcdcd38-fb3f-4a03-8751-d0aa6380d334" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/assets/call history@2x.png" afterPath="$PROJECT_DIR$/assets/call history@2x.png" />
+      <change beforePath="$PROJECT_DIR$/assets/chat history@2x.png" afterPath="$PROJECT_DIR$/assets/chat history@2x.png" />
+      <change beforePath="$PROJECT_DIR$/assets/thumb_booked chip@2x.png" afterPath="$PROJECT_DIR$/assets/thumb_booked chip@2x.png" />
+      <change beforePath="$PROJECT_DIR$/assets/thumb_call history@2x.png" afterPath="$PROJECT_DIR$/assets/thumb_call history@2x.png" />
+      <change beforePath="$PROJECT_DIR$/assets/thumb_chat active@2x.png" afterPath="$PROJECT_DIR$/assets/thumb_chat active@2x.png" />
+      <change beforePath="$PROJECT_DIR$/assets/thumb_chat history@2x.png" afterPath="$PROJECT_DIR$/assets/thumb_chat history@2x.png" />
+      <change beforePath="$PROJECT_DIR$/assets/thumb_chat@2x.png" afterPath="$PROJECT_DIR$/assets/thumb_chat@2x.png" />
+      <change beforePath="$PROJECT_DIR$/assets/thumb_doctors schedule booked@2x.png" afterPath="$PROJECT_DIR$/assets/thumb_doctors schedule booked@2x.png" />
+      <change beforePath="$PROJECT_DIR$/assets/thumb_doctors schedule@2x.png" afterPath="$PROJECT_DIR$/assets/thumb_doctors schedule@2x.png" />
+      <change beforePath="$PROJECT_DIR$/assets/thumb_doctors@2x.png" afterPath="$PROJECT_DIR$/assets/thumb_doctors@2x.png" />
+      <change beforePath="$PROJECT_DIR$/assets/thumb_find specialist edit@2x.png" afterPath="$PROJECT_DIR$/assets/thumb_find specialist edit@2x.png" />
+      <change beforePath="$PROJECT_DIR$/assets/thumb_find specialists@2x.png" afterPath="$PROJECT_DIR$/assets/thumb_find specialists@2x.png" />
+      <change beforePath="$PROJECT_DIR$/assets/thumb_loading-v@2x.png" afterPath="$PROJECT_DIR$/assets/thumb_loading-v@2x.png" />
+      <change beforePath="$PROJECT_DIR$/assets/thumb_options@2x.png" afterPath="$PROJECT_DIR$/assets/thumb_options@2x.png" />
+      <change beforePath="$PROJECT_DIR$/assets/thumb_prescriptions tracking@2x.png" afterPath="$PROJECT_DIR$/assets/thumb_prescriptions tracking@2x.png" />
+      <change beforePath="$PROJECT_DIR$/assets/thumb_prescriptions@2x.png" afterPath="$PROJECT_DIR$/assets/thumb_prescriptions@2x.png" />
+      <change beforePath="$PROJECT_DIR$/assets/thumb_profile@2x.png" afterPath="$PROJECT_DIR$/assets/thumb_profile@2x.png" />
+      <change beforePath="$PROJECT_DIR$/assets/thumb_user information add@2x.png" afterPath="$PROJECT_DIR$/assets/thumb_user information add@2x.png" />
+      <change beforePath="$PROJECT_DIR$/assets/thumb_user information-v@2x.png" afterPath="$PROJECT_DIR$/assets/thumb_user information-v@2x.png" />
+      <change beforePath="$PROJECT_DIR$/assets/thumb_user service@2x.png" afterPath="$PROJECT_DIR$/assets/thumb_user service@2x.png" />
+      <change beforePath="$PROJECT_DIR$/assets/thumb_video call copy@2x.png" afterPath="$PROJECT_DIR$/assets/thumb_video call copy@2x.png" />
+      <change beforePath="$PROJECT_DIR$/assets/thumb_video call overlay copy@2x.png" afterPath="$PROJECT_DIR$/assets/thumb_video call overlay copy@2x.png" />
+      <change beforePath="$PROJECT_DIR$/assets/thumb_video call@2x.png" afterPath="$PROJECT_DIR$/assets/thumb_video call@2x.png" />
+      <change beforePath="$PROJECT_DIR$/assets/video call copy@2x.png" afterPath="$PROJECT_DIR$/assets/video call copy@2x.png" />
+      <change beforePath="$PROJECT_DIR$/assets/video call@2x.png" afterPath="$PROJECT_DIR$/assets/video call@2x.png" />
       <change beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -41,8 +66,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="215">
-              <caret line="2256" column="76" lean-forward="false" selection-start-line="2256" selection-start-column="7" selection-end-line="2256" selection-end-column="76" />
+            <state relative-caret-position="87">
+              <caret line="2265" column="0" lean-forward="false" selection-start-line="2265" selection-start-column="0" selection-end-line="2265" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -109,42 +134,6 @@
             <path>
               <item name="eclinic" type="b2602c69:ProjectViewProjectNode" />
               <item name="eclinic" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="eclinic" type="b2602c69:ProjectViewProjectNode" />
-              <item name="eclinic" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="eclinic" type="b2602c69:ProjectViewProjectNode" />
-              <item name="eclinic" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-              <item name="apps" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="eclinic" type="b2602c69:ProjectViewProjectNode" />
-              <item name="eclinic" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-              <item name="apps" type="462c0819:PsiDirectoryNode" />
-              <item name="share" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="eclinic" type="b2602c69:ProjectViewProjectNode" />
-              <item name="eclinic" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-              <item name="html5shim" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="eclinic" type="b2602c69:ProjectViewProjectNode" />
-              <item name="eclinic" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-              <item name="json2" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="eclinic" type="b2602c69:ProjectViewProjectNode" />
-              <item name="eclinic" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-              <item name="react" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -267,12 +256,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1524718500919</updated>
-      <workItem from="1524718505469" duration="2587000" />
+      <workItem from="1524718505469" duration="3548000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2587000" />
+    <option name="totallyTimeSpent" value="3548000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="709" extended-state="0" />
@@ -348,8 +337,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="215">
-          <caret line="2256" column="76" lean-forward="false" selection-start-line="2256" selection-start-column="7" selection-end-line="2256" selection-end-column="76" />
+        <state relative-caret-position="87">
+          <caret line="2265" column="0" lean-forward="false" selection-start-line="2265" selection-start-column="0" selection-end-line="2265" selection-end-column="0" />
           <folding />
         </state>
       </provider>
